@@ -477,7 +477,7 @@ padding-bottom: 3rem;
 }
 
 
-.fifth-section{
+#fifth-section{
 background-color: rgb(255, 247, 242);
 padding-top: 4rem;
 padding-bottom: 4rem;
@@ -506,6 +506,11 @@ padding-bottom: 4rem;
   
   margin: auto;
   text-align: center;
+}
+
+.mail-href{
+  text-decoration: none;
+  color: #fff;
 }
 
 .mail-btn{
